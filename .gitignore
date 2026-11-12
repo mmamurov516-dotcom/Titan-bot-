@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Environment variables (Maxfiy kalitlar)
+.env
+
+# SQLite ma'lumotlar bazasi
+*.db
+memory.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE va OS fayllari
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
